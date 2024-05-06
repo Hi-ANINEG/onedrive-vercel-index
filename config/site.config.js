@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: '主页',
-      link: 'https://anineg.space/',
+      link: 'https://blog.anineg.space/',
     },
   ],
 
